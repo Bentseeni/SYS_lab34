@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="get"
+        android:id="@+id/button_1"
+        android:background="@android:color/holo_green_light"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="get"
+        android:id="@+id/button_2"
+        android:background="@android:color/holo_green_light"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="get"
+        android:id="@+id/button_3"
+        android:background="@android:color/holo_green_light"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="get"
+        android:id="@+id/button_4"
+        android:background="@android:color/holo_green_light"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="get"
+        android:id="@+id/button_5"
+        android:background="@android:color/holo_green_light"
+        />
+
+
+
+
+
+
+</LinearLayout>
